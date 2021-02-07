@@ -1,3 +1,3 @@
 # CSS ALignment Using Grid
 
-!{cssalignmentusinggrid}(assets/align.png)
+![cssalignmentusinggrid](assets/align.png)
